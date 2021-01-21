@@ -1,7 +1,7 @@
 ## The Rise of a Data Scientist.
 
 ### [Reducing the rate of customer turnover (CHURN).](https://github.com/pauloreis-ds/Projetos/tree/master/classification-churn)
-[Reduzindo a taxa de rotatividade de clientes.](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn) (PT-BR)
+[(PT-BR) Reduzindo a taxa de rotatividade de clientes.](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn) 
 
 TopBank is a large banking services company. It operates mainly in European countries offering financial products, <br>
 from bank accounts to investments. Concerned about the churn rate [...] TopBank's Analytics team hired you as a Data <br> 
