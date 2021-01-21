@@ -1,7 +1,7 @@
 ## The Rise of a Data Scientist.
 
 ### [Reducing the rate of customer turnover (CHURN).](https://github.com/pauloreis-ds/Projetos/tree/master/classification-churn)
-[PT-BR](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn)
+[Reduzindo a taxa de rotatividade de clientes (PT-BR).](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn)
 
 TopBank is a large banking services company. It operates mainly in European countries offering financial products, <br>
 from bank accounts to investments. Concerned about the churn rate [...] TopBank's Analytics team hired you as a Data <br> 
@@ -30,7 +30,7 @@ And as a Data Scientist hired by the company, you have to help finding the best 
     price given for each retirement option? 
 
 
-### [Forecasting Recife Apartment Prices.](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
+### [Previsão de preços de apartamentos em Recife.](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
 (Only PT-BR)
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PRojects.png">](https://github.com/pauloreis-ds)
