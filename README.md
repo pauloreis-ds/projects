@@ -1,5 +1,25 @@
 ## The Rise of a Data Scientist.
 
+### [Ifood Marketing Campaign.](https://github.com/pauloreis-ds/ifood_marketing_campaign)
+[(PT-BR) Campanha de Marketing Direcionado no Ifood.](https://sites.google.com/view/pauloreis/o-projetos/ifood-marketing-campaign) 
+
+The marketing department was pressured to spend its annual budget more wisely [...] It is your challenge to <br>
+understand the data, find business opportunities & insights, and to propose data-driven action to optimize <br>
+the campaign’s results & generate value to the company.
+
+    You need to provide the marketing team a better understanding of the characteristic 
+    features of respondents. How do variables connect with response rates? 
+    What other relationships between variables are interesting for the business? 
+    Which actionable can we take out of the EDA?
+    
+    Propose and describe a customer segmentation based on customers’ behaviors.
+    How many and which profiles are there in the database? 
+    How does segmentation connect to the campaign's financial return?
+    
+    Create a predictive model which allows the company to maximize the profit of the next
+    marketing campaign. What is the best metric that correlates with the profitability of
+    the campaign?
+
 ### [Reducing the rate of customer turnover (CHURN).](https://github.com/pauloreis-ds/Projetos/tree/master/classification-churn)
 [(PT-BR) Reduzindo a taxa de rotatividade de clientes.](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn) 
 
