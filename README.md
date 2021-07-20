@@ -1,5 +1,13 @@
 ## The Rise of a Data Scientist.
 
+### [Olist Store.](https://github.com/pauloreis-ds/olist)
+
+Set of projects based on Olist dataset. [Business Insights](https://github.com/pauloreis-ds/olist/tree/main/business_questions_insights).
+Sales Forecast. Churn. Customer Lifetime Value.  <br>
+Recommendation System. Delivery Performance. Customer Segmentation. Customer Satisfaction. NLP.
+
+    On going
+
 ### [Ifood Marketing Campaign.](https://github.com/pauloreis-ds/ifood_marketing_campaign)
 [(PT-BR) Campanha de Marketing Direcionado no Ifood.](https://sites.google.com/view/pauloreis/o-projetos/ifood-marketing-campaign) 
 
