@@ -3,7 +3,7 @@
 ### [Olist Store.](https://github.com/pauloreis-ds/olist)
 
 Set of projects based on Olist dataset. [Business Insights](https://github.com/pauloreis-ds/olist/tree/main/business_questions_insights).
-Sales Forecast. Churn. Customer Lifetime Value.  <br>
+[Sales Forecast](https://github.com/pauloreis-ds/olist/tree/main/sales_prediction). Churn. Customer Lifetime Value.  <br>
 Recommendation System. Delivery Performance. Customer Segmentation. Customer Satisfaction. NLP.
 
     On going
