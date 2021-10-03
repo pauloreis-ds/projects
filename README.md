@@ -28,7 +28,7 @@ the campaign’s results & generate value to the company.
     marketing campaign. What is the best metric that correlates with the profitability of
     the campaign?
 
-### [Reducing the rate of customer turnover (CHURN).](https://github.com/pauloreis-ds/Projetos/tree/master/classification-churn)
+### [Reducing the rate of customer turnover (CHURN).](https://github.com/pauloreis-ds/churn-topBank)
 [(PT-BR) Reduzindo a taxa de rotatividade de clientes.](https://sites.google.com/view/pauloreis/o-projetos/topbank-churn) 
 
 TopBank is a large banking services company. It operates mainly in European countries offering financial products, <br>
