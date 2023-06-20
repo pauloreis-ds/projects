@@ -60,6 +60,24 @@ And as a Data Scientist hired by the company, you have to help finding the best 
 ### [Previsão de preços de apartamentos em Recife.](https://github.com/pauloreis-ds/Projetos/tree/master/Previs%C3%A3o%20-%20Pre%C3%A7o%20Apartamentos%20Recife)
 (Only PT-BR)
 
+
+<br>
+
+### [Study Cases.](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science)
+
+Mini Projects to build knowledge.
+
+        Data Collection (Web Scraping), Data Processing (Wrangling - Cleaning - Analysis),
+        Data Analysis (Machine Learning), Data Visualization
+
+[EN](https://github.com/pauloreis-ds/Paulo-Reis-Data-Science)
+<br>
+[PT-BR](https://github.com/pauloreis-ds/Paulo-Reis-Ciencia-de-dados)
+
+
+
+
+
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PRojects.png">](https://github.com/pauloreis-ds)
 
 ---
