@@ -1,10 +1,10 @@
 ## The Rise of a Data Scientist.
 
-### [Olist Store.](https://github.com/pauloreis-ds/olist)
+### [E-Mart Retailer.](https://github.com/pauloreis-ds/e_mart_retailer)
 
-Set of projects based on Olist dataset. [Business Insights](https://github.com/pauloreis-ds/olist/tree/main/business_questions_insights).
-[Sales Forecast](https://github.com/pauloreis-ds/olist/tree/main/sales_prediction). Churn. Customer Lifetime Value.  <br>
-Recommendation System. Delivery Performance. Customer Segmentation. Customer Satisfaction. NLP.
+Set of projects based on a retail business model. [Business Insights](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/growth_analysis).
+[Sales Forecast](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/sales_forecast). Customer Segmentation. Customer Retention (Churn). Customer Lifetime Value.  <br>
+Recommendation System. Delivery Performance. Customer Satisfaction.
 
     On going
 
