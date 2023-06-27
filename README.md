@@ -3,7 +3,7 @@
 ### [E-Mart Retailer.](https://github.com/pauloreis-ds/e_mart_retailer)
 
 Set of projects based on a retail business model. [Business Insights](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/growth_analysis).
-[Sales Forecast](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/sales_forecast). [Customer Segmentation](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/customer_segmentation). Customer Retention (Churn). Customer Lifetime Value. Recommendation System. Delivery Performance. Customer Satisfaction.
+[Sales Forecast](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/sales_forecast). [Customer Segmentation](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/customer_segmentation). [Customer Retention (Churn)](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/customer_retention_churn). Customer Lifetime Value. Recommendation System. Delivery Performance. Customer Satisfaction.
 
     On going
 
